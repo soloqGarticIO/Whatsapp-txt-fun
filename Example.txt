@@ -1,0 +1,4 @@
+01/04/2000, 8:13 p.m. - Messages to this chat and calls are now secured with end-to-end encryption. Tap for more info.
+01/04/2000, 8:13 p.m. - A: Hi
+01/04/2000, 8:13 p.m. - B: Hello
+02/04/2000, 1:13 p.m. - A: Bye
